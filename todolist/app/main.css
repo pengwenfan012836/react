@@ -1,0 +1,14 @@
+body{background-color: #fff; }
+body, ul,li,p,a{padding:0;margin:0;list-style: none;font-family: '微软雅黑';font-size: 16px}
+a{text-decoration: none;color:#333;font-size: 16px;font-family: '微软雅黑';}
+.withborder{margin:0px auto;padding:10px auto;width: 80%;height:800px;border:1px solid #000;}
+.beiwang{width:100%;height:50px;margin:10px auto;border:1px solid #000;}
+.linklItems li,.beiwang li{float: left;width:150px;padding:0 50px;height:20px;text-align: center;}
+li.add{width: 230px;height: 30px;}
+.clear{clear: both;}
+
+li.memorandum{font-size:30px;ont-weight: bold;}
+li .submit{width: 200px;height: 30px;}
+button{width:100px;height: 40px;background-color: #999;margin:0 5px;}
+.linklItems{margin:20px auto;}
+.linklItems li{width:100px;height:20px;text-align: center;}
